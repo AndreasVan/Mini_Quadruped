@@ -2,7 +2,7 @@
 // Control of a mini quadruped robot - Last update: AndreasVan 2015-12-30 Vers. 1.8
 // Micro controller = Arduino UNO
 // Detecting obstacles with an SR04 ultrasonic sensor 
-// Based on Mini quadruped MK II by oevsegneev - thingiverse.com/thing:343420
+// Based on Mini quadruped MK II by Oleg Evsegneev - thingiverse.com/thing:343420
 // this code is public domain, enjoy!
 
 
